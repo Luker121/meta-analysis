@@ -4,7 +4,7 @@ This repository contains the full workflow used in *<your paper / thesis title>
 to synthesise evidence on **Burden, Depression, and Anxiety** outcomes at
 *End‑of‑Treatment (EoT)* and *Follow‑Up (FU)*.
 
-## 📦 Requirements
+## Requirements
 
 | R package | version tested |
 |-----------|----------------|
