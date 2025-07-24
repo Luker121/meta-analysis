@@ -1,0 +1,17 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+
+# data & output
+data/
+output/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
