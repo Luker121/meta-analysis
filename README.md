@@ -1,4 +1,4 @@
-# Meta‑Analysis of the impact of structured group interventions on informal caregivers of people with dementia
+# Meta‑Analysis on the impact of structured group interventions on informal caregivers of people with dementia
 
 This repository contains the full workflow used in *The impact of structured group interventions on informal caregivers of people with dementia: a systematic review and meta-analysis*  
 to synthesise evidence on **Burden, Depression, and Anxiety** outcomes at
